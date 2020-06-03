@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <link href="styles.css" rel="stylesheet">
+
+
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script src="/script.js"></script>
+    </head>
+    <body> 
+        <nav class="d-block bg-white container-fluid">
+            <section class="row">
+                <aside class="d-flex align-items-center col-xl-2 col-lg-2 col-md-2">
+                    <a class="navbar-brand" href="#"> <img src="/img/logo.svg" alt="BrandName"> </a>   
+                </aside>
+                <section class="d-flex justify-content-between align-items-center col-xl-10 col-lg-10 col-md-10 ">   
+                    <a class="burger-icon" href="#">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </a>
+                    <ul class="navbar-nav flex-row-reverse"> 
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle d-flex flex-row align-items-center text-dark" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <div id="profile-container" class="mr-2">
+                                    <image id="avatar-image" class="rounded-circle" src="http://lorempixel.com/50/50" />
+                                </div>
+                                User Name
+                            </a>
+                            <div class="dropdown-menu position-absolute" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Logout</a>
+                            </div>
+                        </li> 
+                    </ul>  
+
+                </section>
+
+            </section>
+          </nav>
+          <section class="container-fluid"> 
+            <section class="row"> 
+                <aside class="side-menu col-2">
+                    <ul>
+                        <li> <a href="" class="btn-side-nav active"> <span> Registration </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Sponsor </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Exhibitor </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Exhibitor Leads </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Sessions </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Lectures </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Lecture Locations </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Lecture Tracks </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Speakers </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Notifications </span></a> </li>
+                        <li> <a href="" class="btn-side-nav"> <span> Edition Setup </span></a> </li>
+                    </ul>
+                </aside>
+                <section class="sec-show col-10">
+                    <section class="sub-nav d-flex justify-content-between align-items-center pt-4">
+                        <ul class="breadcrumb p-0 mb-0">
+                            <li><a href="#"> <img src="/img/ico.svg" class="home" alt=""> </a></li> 
+                            <li><a href="#">Registration</a></li>
+                            <li>All</li>
+                        </ul>
+                        <div class="actions">
+                            <a href="#" class="btn-cta active"> <img src="/img/plus.svg" alt="+"> New Registration  </a>
+                        </div> 
+                    </section>
+                    <section class="content-section mt-4 p-4 bg-white" >
+                        <div class="row">
+                            <div class="col-xl-8 col-lg-8 col-md-8 col-sm-6">
+                                <form class="row">
+                                    <div class="form-group col-auto mb-0">
+                                        <label for="search-Grid" class="position-relative mb-0"> 
+                                            <span class="floating-ico"> <img src="/img/search.svg" alt=""> </span>
+                                            <input type="text" placeholder="Search" class="form-control" id="search-Grid" aria-describedby="searchbox">
+                                        </label>
+                                    </div>
+                                    <div class="form-group d-inline-flex align-items-center col-auto mb-0">
+                                      <a href="" class="link font-weight-bold"> Advanced Search </a>
+                                    </div> 
+                                  </form>
+
+                            </div>
+                            <div class="form-inline justify-content-end col-xl-4 col-lg-4 col-md-4 col-sm-6"> 
+                                <label class="my-1 mr-2" for="inlineFormCustomSelectPref">View Rows:</label>
+                                <select class="custom-select" id="inlineFormCustomSelectPref">
+                                    <option selected>Choose...</option>
+                                    <option value="1">10</option>
+                                    <option value="2">20</option>
+                                    <option value="3">30</option>
+                                </select>
+
+                            </div>
+
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table border-bottom">
+                                <thead>
+                                    <tr class="border-0">
+                                      <th scope="col">#</th>
+                                      <th scope="col">First</th>
+                                      <th scope="col">Last</th>
+                                      <th scope="col">Handle</th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    <tr>
+                                      <th scope="row">1</th>
+                                      <td>Mark</td>
+                                      <td>Otto</td>
+                                      <td>@mdo</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">2</th>
+                                      <td>Jacob</td>
+                                      <td>Thornton</td>
+                                      <td>@fat</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">3</th>
+                                      <td>Larry</td>
+                                      <td>the Bird</td>
+                                      <td>@twitter</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">2</th>
+                                      <td>Jacob</td>
+                                      <td>Thornton</td>
+                                      <td>@fat</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">3</th>
+                                      <td>Larry</td>
+                                      <td>the Bird</td>
+                                      <td>@twitter</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">2</th>
+                                      <td>Jacob</td>
+                                      <td>Thornton</td>
+                                      <td>@fat</td>
+                                    </tr>
+                                    <tr>
+                                      <th scope="row">3</th>
+                                      <td>Larry</td>
+                                      <td>the Bird</td>
+                                      <td>@twitter</td>
+                                    </tr>
+                                  </tbody>
+                            </table>
+                          </div>
+                          <nav class="grid-pager" aria-label="Page navigation example">
+                            <ul class="pagination justify-content-end mb-0">
+                              <li class="page-item disabled">
+                                <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+                              </li>
+                              <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                              <li class="page-item"><a class="page-link" href="#">2</a></li>
+                              <li class="page-item"><a class="page-link" href="#">3</a></li>
+                              <li class="page-item">
+                                <a class="page-link" href="#">Next</a>
+                              </li>
+                            </ul>
+                          </nav>
+
+                    </section>
+                    
+                </section>
+            </section>
+          </section> 
+    </body>
+</html>

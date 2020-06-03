@@ -1,0 +1,503 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1020" height="369" viewBox="0 0 1020 369">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1009" data-name="Rectangle 1009" width="1020" height="369" transform="translate(276 223)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-276 -223)" clip-path="url(#clip-path)">
+    <g id="form" transform="translate(30 19)">
+      <g id="_1_sec" data-name="1 sec" transform="translate(0 -475)">
+        <g id="_1" data-name="1" transform="translate(-880 -286)">
+          <g id="input" transform="translate(-1)">
+            <g id="Rectangle_189" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="472" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="471" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="Select_Category" data-name="Select Category" transform="translate(1161 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Category</tspan></text>
+            <path id="Path_3489" data-name="Path 3489" d="M0,0,4.21,4.46,8.623,0" transform="translate(1597.5 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          </g>
+          <text id="Category" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Category</tspan></text>
+        </g>
+        <g id="_1-2" data-name="1" transform="translate(-880 -125)">
+          <g id="input-2" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-2" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="In_Progress" data-name="In Progress" transform="translate(1161 564)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">In Progress</tspan></text>
+            <path id="Path_3489-2" data-name="Path 3489" d="M0,0,4.21,4.46,8.623,0" transform="translate(1345.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          </g>
+          <text id="Status_" data-name="Status *" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Status *</tspan></text>
+        </g>
+        <g id="_1-3" data-name="1" transform="translate(-628 -125)">
+          <g id="input-3" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-3" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="_2019-06-12_09:45:28" data-name="2019-06-12 09:45:28" transform="translate(1180 566)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">2019-06-12 09:45:28</tspan></text>
+            <g id="Calender" transform="translate(1159 553.832)">
+              <line id="Line_662" data-name="Line 662" x2="11.488" transform="translate(0.319 3.829)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_663" data-name="Line 663" y2="2.553" transform="translate(2.872)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_664" data-name="Line 664" y2="2.553" transform="translate(9.254)" fill="none" stroke="#000" stroke-width="1"/>
+              <rect id="Rectangle_1006" data-name="Rectangle 1006" width="12" height="12" transform="translate(0 1.168)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_665" data-name="Line 665" y2="1.276" transform="translate(2.234 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_675" data-name="Line 675" y2="1.276" transform="translate(2.234 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_680" data-name="Line 680" y2="1.276" transform="translate(2.234 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_668" data-name="Line 668" y2="1.276" transform="translate(4.148 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_674" data-name="Line 674" y2="1.276" transform="translate(4.148 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_679" data-name="Line 679" y2="1.276" transform="translate(4.148 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_670" data-name="Line 670" y2="1.276" transform="translate(7.978 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_673" data-name="Line 673" y2="1.276" transform="translate(7.978 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_678" data-name="Line 678" y2="1.276" transform="translate(7.978 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_667" data-name="Line 667" y2="1.276" transform="translate(6.063 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_672" data-name="Line 672" y2="1.276" transform="translate(6.063 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_677" data-name="Line 677" y2="1.276" transform="translate(6.063 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_669" data-name="Line 669" y2="1.276" transform="translate(9.892 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_671" data-name="Line 671" y2="1.276" transform="translate(9.892 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_676" data-name="Line 676" y2="1.276" transform="translate(9.892 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+            </g>
+          </g>
+          <text id="Registration_Date_" data-name="Registration Date *" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Registration Date *</tspan></text>
+        </g>
+        <g id="_1-4" data-name="1" transform="translate(-379 -125)">
+          <g id="input-4" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-4" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="Select_Exhibitor" data-name="Select Exhibitor" transform="translate(1158 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Exhibitor</tspan></text>
+            <path id="Path_3490" data-name="Path 3490" d="M0,0,4.21,4.46,8.623,0" transform="translate(1346.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+            <g id="_" data-name="?" transform="translate(67 -29)">
+              <circle id="Ellipse_6" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_2" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Select_Exhibitor-2" data-name="Select Exhibitor" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Exhibitor</tspan></text>
+        </g>
+        <g id="_1-5" data-name="1" transform="translate(-124 -125)">
+          <g id="input-5" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-5" data-name="Rectangle 189" transform="translate(1145 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="select_Registration_G.." data-name="select Registration G.." transform="translate(1157 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">select Registration G..</tspan></text>
+            <path id="Path_3490-2" data-name="Path 3490" d="M0,0,4.21,4.46,8.623,0" transform="translate(1344.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+            <g id="_3" data-name="?" transform="translate(64 -29)">
+              <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_4" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Registration_Group" data-name="Registration Group" transform="translate(1143 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Registration Group</tspan></text>
+        </g>
+        <g id="_1-6" data-name="1" transform="translate(-880 -41)">
+          <g id="input-6" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-6" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="973" height="51" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="972" height="50" rx="4.5" fill="none"/>
+            </g>
+            <g id="_5" data-name="?" transform="translate(820 -29)">
+              <circle id="Ellipse_6-3" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_6" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Internal_Notes" data-name="Internal Notes" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Internal Notes</tspan></text>
+        </g>
+        <g id="_1-7" data-name="1" transform="translate(-379 -286)">
+          <g id="input-7" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-7" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="472" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="471" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="_Exclusive_of_VAT_" data-name="(Exclusive of VAT)" transform="translate(1212 530)" fill="#9f9f9f" font-size="8" font-family="OpenSans, Open Sans"><tspan x="0" y="0">(Exclusive of VAT)</tspan></text>
+            <g id="_7" data-name="?" transform="translate(319 -31)">
+              <circle id="Ellipse_6-4" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_8" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Unit_Price" data-name="Unit Price" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Unit Price</tspan></text>
+        </g>
+        <g id="_1-8" data-name="1" transform="translate(-831 -209)">
+          <g id="input-8" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-8" data-name="Rectangle 189" transform="translate(1099 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="221" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="220" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_9" data-name="?" transform="translate(11 5)">
+              <circle id="Ellipse_6-5" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_10" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Discount" transform="translate(1097 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Discount</tspan></text>
+        </g>
+        <g id="_1-9" data-name="1" transform="translate(-628 -209)">
+          <g id="input-9" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-9" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_11" data-name="?" transform="translate(56 5)">
+              <circle id="Ellipse_6-6" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_12" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Net_Before_Tax" data-name="Net Before Tax" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Net Before Tax</tspan></text>
+        </g>
+        <g id="_1-10" data-name="1" transform="translate(-379 -209)">
+          <g id="input-10" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-10" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="221" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="220" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_13" data-name="?" transform="translate(68 -30)">
+              <circle id="Ellipse_6-7" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_14" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="VAT" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">VAT</tspan></text>
+        </g>
+        <g id="_1-11" data-name="1" transform="translate(-127 -209)">
+          <g id="input-11" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-11" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_15" data-name="?" transform="translate(67 -30)">
+              <circle id="Ellipse_6-8" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_16" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Total" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Total</tspan></text>
+        </g>
+      </g>
+      <g id="_1_sec-2" data-name="1 sec" transform="translate(0 -15)">
+        <g id="_1-12" data-name="1" transform="translate(-880 -286)">
+          <g id="input-12" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-12" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="472" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="471" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="Select_Category-2" data-name="Select Category" transform="translate(1161 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Category</tspan></text>
+            <path id="Path_3489-3" data-name="Path 3489" d="M0,0,4.21,4.46,8.623,0" transform="translate(1597.5 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          </g>
+          <text id="Category-2" data-name="Category" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Category</tspan></text>
+        </g>
+        <g id="_1-13" data-name="1" transform="translate(-880 -125)">
+          <g id="input-13" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-13" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="In_Progress-2" data-name="In Progress" transform="translate(1161 564)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">In Progress</tspan></text>
+            <path id="Path_3489-4" data-name="Path 3489" d="M0,0,4.21,4.46,8.623,0" transform="translate(1345.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          </g>
+          <text id="Status_2" data-name="Status *" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Status *</tspan></text>
+        </g>
+        <g id="_1-14" data-name="1" transform="translate(-628 -125)">
+          <g id="input-14" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-14" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="_2019-06-12_09:45:28-2" data-name="2019-06-12 09:45:28" transform="translate(1180 566)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">2019-06-12 09:45:28</tspan></text>
+            <g id="Calender-2" data-name="Calender" transform="translate(1159 553.832)">
+              <line id="Line_662-2" data-name="Line 662" x2="11.488" transform="translate(0.319 3.829)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_663-2" data-name="Line 663" y2="2.553" transform="translate(2.872)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_664-2" data-name="Line 664" y2="2.553" transform="translate(9.254)" fill="none" stroke="#000" stroke-width="1"/>
+              <rect id="Rectangle_1006-2" data-name="Rectangle 1006" width="12" height="12" transform="translate(0 1.168)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_665-2" data-name="Line 665" y2="1.276" transform="translate(2.234 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_675-2" data-name="Line 675" y2="1.276" transform="translate(2.234 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_680-2" data-name="Line 680" y2="1.276" transform="translate(2.234 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_668-2" data-name="Line 668" y2="1.276" transform="translate(4.148 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_674-2" data-name="Line 674" y2="1.276" transform="translate(4.148 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_679-2" data-name="Line 679" y2="1.276" transform="translate(4.148 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_670-2" data-name="Line 670" y2="1.276" transform="translate(7.978 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_673-2" data-name="Line 673" y2="1.276" transform="translate(7.978 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_678-2" data-name="Line 678" y2="1.276" transform="translate(7.978 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_667-2" data-name="Line 667" y2="1.276" transform="translate(6.063 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_672-2" data-name="Line 672" y2="1.276" transform="translate(6.063 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_677-2" data-name="Line 677" y2="1.276" transform="translate(6.063 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_669-2" data-name="Line 669" y2="1.276" transform="translate(9.892 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_671-2" data-name="Line 671" y2="1.276" transform="translate(9.892 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_676-2" data-name="Line 676" y2="1.276" transform="translate(9.892 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+            </g>
+          </g>
+          <text id="Registration_Date_2" data-name="Registration Date *" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Registration Date *</tspan></text>
+        </g>
+        <g id="_1-15" data-name="1" transform="translate(-379 -125)">
+          <g id="input-15" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-15" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="Select_Exhibitor-3" data-name="Select Exhibitor" transform="translate(1158 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Exhibitor</tspan></text>
+            <path id="Path_3490-3" data-name="Path 3490" d="M0,0,4.21,4.46,8.623,0" transform="translate(1346.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+            <g id="_17" data-name="?" transform="translate(67 -29)">
+              <circle id="Ellipse_6-9" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_18" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Select_Exhibitor-4" data-name="Select Exhibitor" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Exhibitor</tspan></text>
+        </g>
+        <g id="_1-16" data-name="1" transform="translate(-124 -125)">
+          <g id="input-16" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-16" data-name="Rectangle 189" transform="translate(1145 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="select_Registration_G..-2" data-name="select Registration G.." transform="translate(1157 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">select Registration G..</tspan></text>
+            <path id="Path_3490-4" data-name="Path 3490" d="M0,0,4.21,4.46,8.623,0" transform="translate(1344.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+            <g id="_19" data-name="?" transform="translate(64 -29)">
+              <circle id="Ellipse_6-10" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_20" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Registration_Group-2" data-name="Registration Group" transform="translate(1143 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Registration Group</tspan></text>
+        </g>
+        <g id="_1-17" data-name="1" transform="translate(-880 -41)">
+          <g id="input-17" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-17" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="973" height="51" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="972" height="50" rx="4.5" fill="none"/>
+            </g>
+            <g id="_21" data-name="?" transform="translate(820 -29)">
+              <circle id="Ellipse_6-11" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_22" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Internal_Notes-2" data-name="Internal Notes" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Internal Notes</tspan></text>
+        </g>
+        <g id="_1-18" data-name="1" transform="translate(-379 -286)">
+          <g id="input-18" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-18" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="472" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="471" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="_Exclusive_of_VAT_2" data-name="(Exclusive of VAT)" transform="translate(1212 530)" fill="#9f9f9f" font-size="8" font-family="OpenSans, Open Sans"><tspan x="0" y="0">(Exclusive of VAT)</tspan></text>
+            <g id="info" transform="translate(319 -31)">
+              <circle id="Ellipse_6-12" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_23" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Unit_Price-2" data-name="Unit Price" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Unit Price</tspan></text>
+        </g>
+        <g id="_1-19" data-name="1" transform="translate(-831 -209)">
+          <g id="input-19" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-19" data-name="Rectangle 189" transform="translate(1099 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="221" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="220" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_24" data-name="?" transform="translate(11 5)">
+              <circle id="Ellipse_6-13" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_25" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Discount-2" data-name="Discount" transform="translate(1097 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Discount</tspan></text>
+        </g>
+        <g id="_1-20" data-name="1" transform="translate(-628 -209)">
+          <g id="input-20" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-20" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_26" data-name="?" transform="translate(56 5)">
+              <circle id="Ellipse_6-14" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_27" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Net_Before_Tax-2" data-name="Net Before Tax" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Net Before Tax</tspan></text>
+        </g>
+        <g id="_1-21" data-name="1" transform="translate(-379 -209)">
+          <g id="input-21" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-21" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="221" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="220" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_28" data-name="?" transform="translate(68 -30)">
+              <circle id="Ellipse_6-15" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_29" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="VAT-2" data-name="VAT" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">VAT</tspan></text>
+        </g>
+        <g id="_1-22" data-name="1" transform="translate(-127 -209)">
+          <g id="input-22" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-22" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_30" data-name="?" transform="translate(67 -30)">
+              <circle id="Ellipse_6-16" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_31" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Total-2" data-name="Total" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Total</tspan></text>
+        </g>
+      </g>
+      <g id="_1_sec-3" data-name="1 sec" transform="translate(0 445)">
+        <g id="_1-23" data-name="1" transform="translate(-880 -286)">
+          <g id="input-23" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-23" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="472" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="471" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="Select_Category-3" data-name="Select Category" transform="translate(1161 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Category</tspan></text>
+            <path id="Path_3489-5" data-name="Path 3489" d="M0,0,4.21,4.46,8.623,0" transform="translate(1597.5 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          </g>
+          <text id="Category-3" data-name="Category" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Category</tspan></text>
+        </g>
+        <g id="_1-24" data-name="1" transform="translate(-880 -125)">
+          <g id="input-24" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-24" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="In_Progress-3" data-name="In Progress" transform="translate(1161 564)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">In Progress</tspan></text>
+            <path id="Path_3489-6" data-name="Path 3489" d="M0,0,4.21,4.46,8.623,0" transform="translate(1345.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+          </g>
+          <text id="Status_3" data-name="Status *" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Status *</tspan></text>
+        </g>
+        <g id="_1-25" data-name="1" transform="translate(-628 -125)">
+          <g id="input-25" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-25" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="_2019-06-12_09:45:28-3" data-name="2019-06-12 09:45:28" transform="translate(1180 566)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">2019-06-12 09:45:28</tspan></text>
+            <g id="Calender-3" data-name="Calender" transform="translate(1159 553.832)">
+              <line id="Line_662-3" data-name="Line 662" x2="11.488" transform="translate(0.319 3.829)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_663-3" data-name="Line 663" y2="2.553" transform="translate(2.872)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_664-3" data-name="Line 664" y2="2.553" transform="translate(9.254)" fill="none" stroke="#000" stroke-width="1"/>
+              <rect id="Rectangle_1006-3" data-name="Rectangle 1006" width="12" height="12" transform="translate(0 1.168)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_665-3" data-name="Line 665" y2="1.276" transform="translate(2.234 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_675-3" data-name="Line 675" y2="1.276" transform="translate(2.234 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_680-3" data-name="Line 680" y2="1.276" transform="translate(2.234 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_668-3" data-name="Line 668" y2="1.276" transform="translate(4.148 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_674-3" data-name="Line 674" y2="1.276" transform="translate(4.148 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_679-3" data-name="Line 679" y2="1.276" transform="translate(4.148 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_670-3" data-name="Line 670" y2="1.276" transform="translate(7.978 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_673-3" data-name="Line 673" y2="1.276" transform="translate(7.978 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_678-3" data-name="Line 678" y2="1.276" transform="translate(7.978 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_667-3" data-name="Line 667" y2="1.276" transform="translate(6.063 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_672-3" data-name="Line 672" y2="1.276" transform="translate(6.063 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_677-3" data-name="Line 677" y2="1.276" transform="translate(6.063 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_669-3" data-name="Line 669" y2="1.276" transform="translate(9.892 5.106)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_671-3" data-name="Line 671" y2="1.276" transform="translate(9.892 7.658)" fill="none" stroke="#000" stroke-width="1"/>
+              <line id="Line_676-3" data-name="Line 676" y2="1.276" transform="translate(9.892 10.211)" fill="none" stroke="#000" stroke-width="1"/>
+            </g>
+          </g>
+          <text id="Registration_Date_3" data-name="Registration Date *" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Registration Date *</tspan></text>
+        </g>
+        <g id="_1-26" data-name="1" transform="translate(-379 -125)">
+          <g id="input-26" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-26" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="Select_Exhibitor-5" data-name="Select Exhibitor" transform="translate(1158 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Exhibitor</tspan></text>
+            <path id="Path_3490-5" data-name="Path 3490" d="M0,0,4.21,4.46,8.623,0" transform="translate(1346.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+            <g id="_32" data-name="?" transform="translate(67 -29)">
+              <circle id="Ellipse_6-17" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_33" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Select_Exhibitor-6" data-name="Select Exhibitor" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Select Exhibitor</tspan></text>
+        </g>
+        <g id="_1-27" data-name="1" transform="translate(-124 -125)">
+          <g id="input-27" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-27" data-name="Rectangle 189" transform="translate(1145 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="select_Registration_G..-3" data-name="select Registration G.." transform="translate(1157 565)" fill="#9f9f9f" font-size="13" font-family="OpenSans, Open Sans"><tspan x="0" y="0">select Registration G..</tspan></text>
+            <path id="Path_3490-6" data-name="Path 3490" d="M0,0,4.21,4.46,8.623,0" transform="translate(1344.255 558.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+            <g id="_34" data-name="?" transform="translate(64 -29)">
+              <circle id="Ellipse_6-18" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_35" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Registration_Group-3" data-name="Registration Group" transform="translate(1143 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Registration Group</tspan></text>
+        </g>
+        <g id="_1-28" data-name="1" transform="translate(-880 -41)">
+          <g id="input-28" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-28" data-name="Rectangle 189" transform="translate(1148 543)" fill="#fff" stroke="#afafaf" stroke-width="1">
+              <rect width="973" height="51" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="972" height="50" rx="4.5" fill="none"/>
+            </g>
+            <g id="_36" data-name="?" transform="translate(820 -29)">
+              <circle id="Ellipse_6-19" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_37" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Internal_Notes-3" data-name="Internal Notes" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Internal Notes</tspan></text>
+        </g>
+        <g id="_1-29" data-name="1" transform="translate(-379 -286)">
+          <g id="input-29" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-29" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="472" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="471" height="34" rx="4.5" fill="none"/>
+            </g>
+            <text id="_Exclusive_of_VAT_3" data-name="(Exclusive of VAT)" transform="translate(1212 530)" fill="#9f9f9f" font-size="8" font-family="OpenSans, Open Sans"><tspan x="0" y="0">(Exclusive of VAT)</tspan></text>
+            <g id="_38" data-name="?" transform="translate(319 -31)">
+              <circle id="Ellipse_6-20" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_39" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Unit_Price-3" data-name="Unit Price" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Unit Price</tspan></text>
+        </g>
+        <g id="_1-30" data-name="1" transform="translate(-831 -209)">
+          <g id="input-30" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-30" data-name="Rectangle 189" transform="translate(1099 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="221" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="220" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_40" data-name="?" transform="translate(11 5)">
+              <circle id="Ellipse_6-21" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_41" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Discount-3" data-name="Discount" transform="translate(1097 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Discount</tspan></text>
+        </g>
+        <g id="_1-31" data-name="1" transform="translate(-628 -209)">
+          <g id="input-31" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-31" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_42" data-name="?" transform="translate(56 5)">
+              <circle id="Ellipse_6-22" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_43" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Net_Before_Tax-3" data-name="Net Before Tax" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Net Before Tax</tspan></text>
+        </g>
+        <g id="_1-32" data-name="1" transform="translate(-379 -209)">
+          <g id="input-32" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-32" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="221" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="220" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_44" data-name="?" transform="translate(68 -30)">
+              <circle id="Ellipse_6-23" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_45" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="VAT-3" data-name="VAT" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">VAT</tspan></text>
+        </g>
+        <g id="_1-33" data-name="1" transform="translate(-127 -209)">
+          <g id="input-33" data-name="input" transform="translate(-1)">
+            <g id="Rectangle_189-33" data-name="Rectangle 189" transform="translate(1148 543)" fill="#f8f8f8" stroke="#afafaf" stroke-width="1">
+              <rect width="220" height="35" rx="5" stroke="none"/>
+              <rect x="0.5" y="0.5" width="219" height="34" rx="4.5" fill="none"/>
+            </g>
+            <g id="_46" data-name="?" transform="translate(67 -30)">
+              <circle id="Ellipse_6-24" data-name="Ellipse 6" cx="7" cy="7" r="7" transform="translate(1287 549)" fill="#006fff"/>
+              <text id="_47" data-name="?" transform="translate(1292 560)" fill="#fff" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">?</tspan></text>
+            </g>
+          </g>
+          <text id="Total-3" data-name="Total" transform="translate(1147 530)" font-size="12" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Total</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
